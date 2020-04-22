@@ -1,0 +1,7 @@
+/.vscode
+__pycache__
+/env
+*.png
+/*.mp4
+/data_not_shared
+/media/logo.svg
